@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\betamartt\betamartt\obj\Debug\betamartt.Form1.resources
+C:\Users\HP\source\repos\betamartt\betamartt\obj\Debug\betamartt.Properties.Resources.resources
+C:\Users\HP\source\repos\betamartt\betamartt\obj\Debug\betamartt.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\betamartt\betamartt\obj\Debug\betamartt.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\betamartt\betamartt\bin\Debug\Barang.accdb
+C:\Users\HP\source\repos\betamartt\betamartt\bin\Debug\betamartt.exe.config
+C:\Users\HP\source\repos\betamartt\betamartt\bin\Debug\betamartt.exe
+C:\Users\HP\source\repos\betamartt\betamartt\bin\Debug\betamartt.pdb
+C:\Users\HP\source\repos\betamartt\betamartt\obj\Debug\betamartt.exe
+C:\Users\HP\source\repos\betamartt\betamartt\obj\Debug\betamartt.pdb
+C:\Users\HP\source\repos\betamartt\betamartt\obj\Debug\betamartt.csprojAssemblyReference.cache
